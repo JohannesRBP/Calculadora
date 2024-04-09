@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/CALCULADORA.cs
+    - Assets/CALCULADORA.cs.meta
+    - Assets/CALCULADORA.unity
+    - Assets/CALCULADORA.unity.meta
+    - Assets/LETRAS.meta
+    - Assets/LETRAS/digital-7 (italic).ttf
+    - Assets/LETRAS/digital-7 (italic).ttf.meta
+    - Assets/LETRAS/digital-7 (mono italic).ttf
+    - Assets/LETRAS/digital-7 (mono italic).ttf.meta
+    - Assets/LETRAS/digital-7 (mono).ttf
+    - Assets/LETRAS/digital-7 (mono).ttf.meta
+    - Assets/LETRAS/digital-7.ttf
+    - Assets/LETRAS/digital-7.ttf.meta
+    - Assets/LETRAS/readme.txt
+    - Assets/LETRAS/readme.txt.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Textures.meta
+    - Assets/Textures/Plain Starfields.meta
+    - Assets/Textures/Plain Starfields/PlainStarfield_01.png
+    - Assets/Textures/Plain Starfields/PlainStarfield_01.png.meta
+    - Assets/Textures/Plain Starfields/PlainStarfield_02.png
+    - Assets/Textures/Plain Starfields/PlainStarfield_02.png.meta
+    - Assets/Textures/Plain Starfields/PlainStarfield_03.png
+    - Assets/Textures/Plain Starfields/PlainStarfield_03.png.meta
+    - Assets/Textures/Plain Starfields/PlainStarfield_04.png
+    - Assets/Textures/Plain Starfields/PlainStarfield_04.png.meta
+    - Assets/Textures/SingleNeb.meta
+    - Assets/Textures/SingleNeb/SingleNeb_01.png
+    - Assets/Textures/SingleNeb/SingleNeb_01.png.meta
+    - Assets/Textures/SingleNeb/SingleNeb_02.png
+    - Assets/Textures/SingleNeb/SingleNeb_02.png.meta
+    - Assets/Textures/SingleNeb/SingleNeb_03.png
+    - Assets/Textures/SingleNeb/SingleNeb_03.png.meta
+    - Assets/Textures/SingleNeb/SingleNeb_04.png
+    - Assets/Textures/SingleNeb/SingleNeb_04.png.meta
+    - Assets/Textures/SingleNeb/SingleNeb_05.png
+    - Assets/Textures/SingleNeb/SingleNeb_05.png.meta
+    - Assets/Textures/SingleNeb/SingleNeb_06.png
+    - Assets/Textures/SingleNeb/SingleNeb_06.png.meta
+    - Assets/Textures/SingleNeb/SingleNeb_07.png
+    - Assets/Textures/SingleNeb/SingleNeb_07.png.meta
+    - Assets/Textures/SingleNeb/SingleNeb_08.png
+    - Assets/Textures/SingleNeb/SingleNeb_08.png.meta
+    - Assets/Textures/SingleNeb/SingleNeb_09.png
+    - Assets/Textures/SingleNeb/SingleNeb_09.png.meta
+    - Assets/Textures/SingleNeb/SingleNeb_10.png
+    - Assets/Textures/SingleNeb/SingleNeb_10.png.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
